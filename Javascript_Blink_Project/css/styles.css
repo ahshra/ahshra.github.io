@@ -76,9 +76,10 @@ body {
 }
 
 .top_nav {
-  
+ a {
   color: white;
   text-decoration: none;
+  }
 }
 
 .toggle-blink {
