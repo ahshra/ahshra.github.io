@@ -9,9 +9,12 @@ body {
   min-width: 400px;
 }
 
-.a {
-  text-decoration: none;
-  color: white;
+#top_nav {
+list-style-type: none;
+margin: 0;
+padding: 0;
+display: inline;
+color: white;
 }
 
 .box {
