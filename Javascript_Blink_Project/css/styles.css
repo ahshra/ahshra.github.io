@@ -9,6 +9,11 @@ body {
   min-width: 400px;
 }
 
+.top_nav {
+  text-decoration: none;
+  color: white;
+}
+
 .box {
   background-color: #2D2D2D;
   height: 2.2vw;
@@ -73,11 +78,6 @@ body {
 .not-selected{
   color: #2D2D2D;
   border-bottom: 1vw solid #2D2D2D !important;
-}
-
-.top_nav {
-  color: white;
-  text-decoration: none;
 }
 
 .toggle-blink {
