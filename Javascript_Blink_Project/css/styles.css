@@ -9,14 +9,6 @@ body {
   min-width: 400px;
 }
 
-.top_nav {
-list-style-type: none;
-margin: 0;
-padding: 0;
-display: inline;
-color: white;
-}
-
 .box {
   background-color: #2D2D2D;
   height: 2.2vw;
