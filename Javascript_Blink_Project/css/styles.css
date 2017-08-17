@@ -75,6 +75,21 @@ body {
   border-bottom: 1vw solid #2D2D2D !important;
 }
 
+.top_nav {
+  
+a {
+    color="white";
+    text-decoration: none;
+}
+  
+a:link {}
+a:visited {}
+a:focus {}
+a:hover {}
+a:active {}
+  
+}
+
 .toggle-blink {
   display: flex;
   align-items: center;
