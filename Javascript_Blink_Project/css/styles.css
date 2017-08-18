@@ -1,4 +1,15 @@
-ul {
+
+body {
+  text-align: center;
+  background-color: black;
+  transition: 0.1s;
+  font-family: Helvetica, sans-serif;
+  margin: 3vw auto;
+  width: 95vw;
+  min-width: 400px;
+}
+
+li {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -23,15 +34,6 @@ li a:hover {
     background-color: #111;
 }
 
-body {
-  text-align: center;
-  background-color: black;
-  transition: 0.1s;
-  font-family: Helvetica, sans-serif;
-  margin: 3vw auto;
-  width: 95vw;
-  min-width: 400px;
-}
 
 .box {
   background-color: #2D2D2D;
