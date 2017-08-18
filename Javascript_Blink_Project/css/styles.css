@@ -9,10 +9,6 @@ body {
   min-width: 400px;
 }
 
-li {
-    list-style-type: none;
-}
-
 .box {
   background-color: #2D2D2D;
   height: 2.2vw;
