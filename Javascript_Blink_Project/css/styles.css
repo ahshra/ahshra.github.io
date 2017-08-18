@@ -9,6 +9,15 @@ body {
   min-width: 400px;
 }
 
+a {
+  color: $blue;
+  text-decoration: none;
+    cursor: pointer;
+  &:hover, &:active {
+    color: $blue;
+  }
+}
+
 .box {
   background-color: #2D2D2D;
   height: 2.2vw;
