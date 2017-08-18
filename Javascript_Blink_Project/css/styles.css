@@ -9,6 +9,14 @@ body {
   min-width: 400px;
 }
 
+.nav-list {
+  text-decoration: none;
+  color:white;
+}
+
+  
+}
+
 .box {
   background-color: #2D2D2D;
   height: 2.2vw;
