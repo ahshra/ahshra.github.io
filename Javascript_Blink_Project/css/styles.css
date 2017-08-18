@@ -9,7 +9,7 @@ body {
   min-width: 400px;
 }
 
-.nav-list {
+.nav-list ul {
   font-family: Courier;
 	color: white;
 }
