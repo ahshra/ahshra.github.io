@@ -9,13 +9,9 @@ body {
   min-width: 400px;
 }
 
-a {
-  color: $blue;
+.top-nav {
+  color:white;
   text-decoration: none;
-    cursor: pointer;
-  &:hover, &:active {
-    color: $blue;
-  }
 }
 
 .box {
