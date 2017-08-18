@@ -1,4 +1,6 @@
 
+.top-nav {
+    
 ul {
     list-style-type: none;
     margin: 0;
@@ -18,12 +20,7 @@ li a {
     padding: 14px 16px;
     text-decoration: none;
 }
-
-/* Change the link color to #111 (black) on hover */
-li a:hover {
-    background-color: #111;
 }
-
 
 body {
   text-align: center;
